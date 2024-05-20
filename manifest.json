@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "gray before refresh theme",
+  "theme": {
+    "colors": {
+      "frame": [167, 171, 183],
+      "toolbar": [217, 218, 223],
+      "frame_inactive": [167, 171, 183],
+      "ntp_background": [217, 218, 223],
+      "button_background": [167, 171, 183]
+    },
+    "tints": {
+      "frame": [225, 9, 70],
+      "frame_inactive": [225, 9, 70],
+      "buttons": [225, 9, 70],
+      "background_tab": [225, 9, 70]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_logo_alternate": 0
+    }
+  }
+}
